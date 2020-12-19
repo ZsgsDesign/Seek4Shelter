@@ -11,3 +11,13 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/app/Http/Controllers/VirtualJudge/cookie/*_cookie.txt
+/app/Http/Controllers/VirtualJudge/cookie/file.txt
+/.idea
+
+*.log
+/public/external
+/app/Http/Controllers/VirtualCrawler/CodeForces/problemset.problems
+/public/static/library
+/.vscode/ipch
+/.rnd
